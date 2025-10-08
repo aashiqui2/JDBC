@@ -37,7 +37,7 @@ Before diving into JDBC, ensure you're comfortable with the following concepts:
     <li><a href="https://github.com/aashiqui2/Collection-Framework" target="_blank">Collection Framework</a></li>
     <li><a href="https://github.com/aashiqui2/Lambda-Expressions" target="_blank">Lambda Expressions</a></li>
     <li><a href="https://github.com/aashiqui2/Stream-API" target="_blank">Stream API</a></li>
-    <li><a href="https://github.com/aashiqui2/JDBC" target="_blank">Java Database Connectivity (JDBC)</a></li>
+    <li><a href="https://github.com/aashiqui2/Optional-Class" target="_blank">Optional Class</a></li>
 </ul>
 
 <hr>
