@@ -31,8 +31,13 @@ The database used in these examples is <b>MySQL</b>, but the code can be adjuste
 Before diving into JDBC, ensure you're comfortable with the following concepts:
 </p>
 <ul>
-    <li><a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html" target="_blank">Java Basics</a></li>
-    <li><a href="https://github.com/aashiqui2/Java-Advanced" target="_blank">Java Advanced</a></li>
+    <li><a href="https://github.com/aashiqui2/Java-Basics" target="_blank">Java Basics</a></li>
+    <li><a href="https://github.com/aashiqui2/Exception-Handling" target="_blank">Exception Handling</a></li>
+    <li><a href="https://github.com/aashiqui2/Generics" target="_blank">Generics</a></li>
+    <li><a href="https://github.com/aashiqui2/Collection-Framework" target="_blank">Collection Framework</a></li>
+    <li><a href="https://github.com/aashiqui2/Lambda-Expressions" target="_blank">Lambda Expressions</a></li>
+    <li><a href="https://github.com/aashiqui2/Stream-API" target="_blank">Stream API</a></li>
+    <li><a href="https://github.com/aashiqui2/JDBC" target="_blank">Java Database Connectivity (JDBC)</a></li>
 </ul>
 
 <hr>
