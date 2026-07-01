@@ -14,6 +14,7 @@ public class InputUtil {
 	private InputUtil(){
 		
 	}
+	
 	public static int acceptMenuOption(Scanner sc) {
 		System.out.println("Press 1 to add new owner.");
 		System.out.println("Press 2 to fetch owner details.");
