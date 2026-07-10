@@ -88,6 +88,7 @@ public class InputUtil {
             ownerDTO.setPetType(PetType.valueOf(scanner.nextLine().toUpperCase()));
 
             ownerDTOList.add(ownerDTO);
+            scanner.close();
         }
 
         return ownerDTOList;
